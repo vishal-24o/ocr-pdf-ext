@@ -1,4 +1,4 @@
-from pathlib import Path                  # AUTHOR (@raos0nu)(https://github.com/Raos0nu)
+from pathlib import Path                  
 import os
 import json
 
@@ -424,7 +424,7 @@ INDEX_HTML = """
 """
 
 
-@app.route("/", methods=["GET", "POST"])
+@app.route("/api", methods=["GET", "POST"])
 def index():
     error = ""
     success = ""
