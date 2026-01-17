@@ -1,5 +1,4 @@
-import argparse                     # AUTHOR (@raos0nu)(https://github.com/Raos0nu)
-import os
+import argparse                     
 import re
 from pathlib import Path
 

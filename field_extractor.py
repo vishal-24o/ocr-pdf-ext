@@ -1,7 +1,6 @@
 """
 Motor Insurance PDF Field Extraction Module
 Simple and reliable field extraction.
-AUTHOR: @raos0nu (https://github.com/Raos0nu)
 """
 
 import re
