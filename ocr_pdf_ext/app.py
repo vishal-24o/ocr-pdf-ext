@@ -1,4 +1,4 @@
-from pathlib import Path                  # AUTHOR (@raos0nu)(https://github.com/Raos0nu)
+from pathlib import Path                 
 import os
 import json
 
